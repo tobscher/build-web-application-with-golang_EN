@@ -5,7 +5,7 @@
 	- 1.4. [Go development tools](01.4.md)
 	- 1.5. [Summary](01.5.md)
 - 2.[Go basic knowledge](02.0.md)
-	- 2.1. ["Hello, golang"](02.1.md)
+	- 2.1. ["Hello, Go"](02.1.md)
 	- 2.2. [Go fundation](02.2.md)
 	- 2.3. [Control statements and functions](02.3.md)
 	- 2.4. [struct](02.4.md)
