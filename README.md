@@ -7,8 +7,11 @@ This book is about how to build web applications in Go, author will have quick r
 
 If there is anything unclear, feel free to ask me to rewrite a better translation.
 
+###Translation Progress
+2.3. [Control statements and functions](02.3.md)
+
 ###Purpose
-Because I'm interested in web application development, I used my free time to write this book as open source version. It doesn't mean that I have very good ability to build web applications; I would like to share what I've done with golang in building web applications.
+Because I'm interested in web application development, I used my free time to write this book as open source version. It doesn't mean that I have very good ability to build web applications; I would like to share what I've done with Go in building web applications.
 
 - For those of you who are working with PHP/Python/Ruby, you will understand how to use Go to build a web application.
 - For those of you who are working with C/C++, you will know how the web works.
@@ -18,7 +21,7 @@ I believe the purpose of studying is sharing with others. The happiest thing in 
 ###Donation
 If you like this book, you can ask your Chinese friends to follow this [link](https://me.alipay.com/astaxie) donate the original author, help him write more books with better, more useful, and more interesting content.
 
-###Exchanging Learning golang and Chinese
+###Exchanging Learning Go and Chinese
 If you know what is QQ, join the group 259316004. If not, follow this [link](http://download.imqq.com/download.shtml) get more details. Also, you can join our [forum](http://mygolang.com) with Chinese only.
 
 ###Acknowledgments
