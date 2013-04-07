@@ -10,6 +10,9 @@ If there is anything unclear, feel free to ask me to rewrite a better translatio
 ###Translation Progress
 2.5. [Object-oriented](./eBook/02.5.md)
 
+###Contributors
+- [nightlyone](https://github.com/nightlyone)
+
 ###Purpose
 Because I'm interested in web application development, I used my free time to write this book as open source version. It doesn't mean that I have very good ability to build web applications; I would like to share what I've done with Go in building web applications.
 
