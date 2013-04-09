@@ -8,7 +8,7 @@ This book is about how to build web applications in Go, author will have quick r
 If there is anything unclear, feel free to ask me to rewrite a better translation.
 
 ###Translation Progress
-2.6. [interface](eBook/02.6.md)
+2.8. [Summary](eBook/02.8.md)
 
 ###Contributors
 - [nightlyone](https://github.com/nightlyone)
