@@ -13,6 +13,7 @@ If there is anything unclear, feel free to ask me to rewrite a better translatio
 ###Acknowledgments for translation help
 - [nightlyone](https://github.com/nightlyone)
 - [sbinet](https://github.com/sbinet)
+- [matalangilbert](https://github.com/matalangilbert)
 
 ###Purpose
 Because I'm interested in web application development, I used my free time to write this book as open source version. It doesn't mean that I have very good ability to build web applications; I would like to share what I've done with Go in building web applications.
