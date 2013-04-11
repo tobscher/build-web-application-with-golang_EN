@@ -15,7 +15,7 @@
 	- 2.8. [Summary](02.8.md)
 - 3.[Web foundation](03.0.md)
 	- 3.1. [Web working principles](03.1.md)
-	- 3.2. [Build a simple web service](03.2.md)
+	- 3.2. [Build a simple web server](03.2.md)
 	- 3.3. [How Go works with web](03.3.md)
 	- 3.4. [Get into http package](03.4.md)
 	- 3.5. [Summary](03.5.md)
