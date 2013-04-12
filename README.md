@@ -8,7 +8,7 @@ This book is about how to build web applications in Go, author will have quick r
 If there is anything unclear, feel free to ask me to rewrite a better translation.
 
 ###Translation Progress
-3.1. [Web working principles](eBook/03.1.md)
+3.2. [Build a simple web server](eBook/03.2.md)
 
 ###Acknowledgments for translation help
 - [nightlyone](https://github.com/nightlyone)
