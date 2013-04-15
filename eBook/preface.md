@@ -19,7 +19,7 @@
 	- 3.3. [How Go works with web](03.3.md)
 	- 3.4. [Get into http package](03.4.md)
 	- 3.5. [Summary](03.5.md)
-- 4.[Form](04.0.md)
+- 4.[User form](04.0.md)
 	- 4.1. [Process form inputs](04.1.md)
 	- 4.2. [Verification of inputs](04.2.md)
 	- 4.3. [Cross site scripts](04.3.md)
