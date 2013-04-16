@@ -14,6 +14,7 @@ If anything is unclear due to wording or language issues, feel free to ask me to
 - [matalangilbert](https://github.com/matalangilbert)
 - [nightlyone](https://github.com/nightlyone)
 - [sbinet](https://github.com/sbinet)
+- [carbocation](https://github.com/carbocation)
 
 ###Purpose
 Because I'm interested in web application development, I used my free time to write this book as open source version. It doesn't mean that I have a very good ability to build web applications; I would like to share what I've done with Go in building web applications.
