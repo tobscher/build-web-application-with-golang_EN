@@ -8,13 +8,16 @@ This book is about how to build web applications in Go. In the first few chapter
 If anything is unclear due to wording or language issues, feel free to ask me to write a better translation.
 
 ###Translation Progress
-5.2. [MySQL](eBook/05.2.md)
+5.3. [SQLite](eBook/05.3.md)
 
 ###Acknowledgments for translation help
 - [matalangilbert](https://github.com/matalangilbert)
 - [nightlyone](https://github.com/nightlyone)
 - [sbinet](https://github.com/sbinet)
 - [carbocation](https://github.com/carbocation)
+- [desimone](https://github.com/desimone)
+- [reigai](https://github.com/reigai)
+- [OlingCat](https://github.com/OlingCat)
 
 ###Purpose
 Because I'm interested in web application development, I used my free time to write this book as open source version. It doesn't mean that I have a very good ability to build web applications; I would like to share what I've done with Go in building web applications.
