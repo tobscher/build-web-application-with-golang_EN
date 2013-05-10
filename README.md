@@ -8,7 +8,7 @@ This book is about how to build web applications in Go. In the first few chapter
 If anything is unclear due to wording or language issues, feel free to ask me to write a better translation.
 
 ###Translation Progress
-6.1. [Session and cookies](eBook/06.1.md)
+6.2. [How to use session in Go](eBook/06.2.md)
 
 ###Acknowledgments for translation help
 - [matalangilbert](https://github.com/matalangilbert)
