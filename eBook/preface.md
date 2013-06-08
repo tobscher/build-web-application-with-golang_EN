@@ -43,7 +43,7 @@
 - 7.[Text files](07.0.md)
 	- 7.1. [XML](07.1.md)
 	- 7.2. [JSON](07.2.md)
-	- 7.3. [Regex](07.3.md)
+	- 7.3. [Regexp](07.3.md)
 	- 7.4. [Templates](07.4.md)
 	- 7.5. [Files](07.5.md)
 	- 7.6. [Strings](07.6.md)
