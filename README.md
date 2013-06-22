@@ -8,7 +8,7 @@ This book is about how to build web applications in Go. In the first few chapter
 If anything is unclear due to wording or language issues, feel free to ask me to write a better translation.
 
 ###Translation Progress
-8.1. [Sockets](eBook/08.1.md)
+8.2. [WebSocket](eBook/08.2.md)
 
 ###Acknowledgments for translation help
 - [matalangilbert](https://github.com/matalangilbert)
