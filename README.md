@@ -8,7 +8,7 @@ This book is about how to build web applications in Go. In the first few chapter
 If anything is unclear due to wording or language issues, feel free to ask me to write a better translation.
 
 ###Translation Progress
-8.3. [REST](eBook/08.3.md)
+8.4. [RPC](eBook/08.4.md)
 
 ###Acknowledgments for translation help
 - [matalangilbert](https://github.com/matalangilbert)
